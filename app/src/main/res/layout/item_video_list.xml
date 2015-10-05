@@ -33,7 +33,8 @@
             android:lines="3"
             android:text="text1"
             android:textColor="#383938"
-            android:textSize="16dip" />
+            android:textSize="16dip"
+            />
 
         <RelativeLayout
             android:layout_width="fill_parent"
@@ -81,4 +82,5 @@
         </RelativeLayout>
 
     </LinearLayout>
+
 </LinearLayout>

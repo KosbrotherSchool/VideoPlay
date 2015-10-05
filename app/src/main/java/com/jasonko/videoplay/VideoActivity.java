@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import com.jasonko.videolib.ImageLoader;
 import com.jasonko.videolib.Video;
-import com.jasonko.youtubeplay3.R;
 
 /**
  * Created by kolichung on 6/17/15.

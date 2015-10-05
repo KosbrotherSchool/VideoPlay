@@ -13,7 +13,6 @@ import android.widget.TextView;
 
 import com.jasonko.videolib.ImageLoader;
 import com.jasonko.videolib.Video;
-import com.jasonko.youtubeplay3.R;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;
